@@ -1,0 +1,9 @@
+anti-c/
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+turns/
+summaries/
